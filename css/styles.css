@@ -1,0 +1,111 @@
+body {
+    margin: 0px;
+    background-color: rgb(240, 206, 206);
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container {
+    position: relative;
+    background-color: rgb(88, 82, 82);
+    padding-top: 100px;
+}
+h1 {
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-bottom: 0px;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.middle-container {
+
+}
+.profile {
+    width: 50%;
+    margin: auto;
+}
+.profile p {
+    color: #40514E;
+}
+.profile img {
+    margin-top: 50px;
+}
+.profile h2 {
+    font-weight: bolder;
+}
+hr {
+    border-style: none;
+    border-width: 10px;
+    border-top-style: dotted;
+    width: 10%;
+    border-color: #EAF6F6;
+    margin: 100px auto;
+}
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.skill1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+a {
+    color: #11999E;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me {
+    width: 50%;
+    margin: 50px auto 100px auto;
+}
+.btn {
+    background-color: #66BFBF;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px;
+}
+.contact-me p {
+    margin: 50px 0px;
+}
+.links p {
+    margin-bottom: 0px;
+    margin-top: 30px;
+    color: white;
+}
+.footer-link {
+    padding: 15px;
+}
+/* .links {
+    margin: 100px auto;
+} */
